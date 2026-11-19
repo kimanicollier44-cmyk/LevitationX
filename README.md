@@ -1,4 +1,4 @@
-![LevitationX cover](assets/cover.png)
+![LevitationX cover](LevitationX%20cover.png)
 
 # LevitationX 🧲🛸
 
